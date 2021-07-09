@@ -1,0 +1,78 @@
+{
+  "tv": [
+    {
+      "id": 1,
+      "nama": "Polytron 55 CINEMAX LED 4K UHD TV PLD-55UT9",
+      "harga": 8299000,
+      "gambar": "https://s3.bukalapak.com/img/3861851227/large/POLYTRON_55_inch_CINEMAX_LED_4K_UHD_TV_PLD_55UT9500.jpg",
+      "stok": 5
+    },
+    {
+      "id": 2,
+      "nama": "Samsung 55 in UA55J5500 LED 4K UHD TV PLD-55UT9",
+      "harga": 15489000,
+      "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/tvs/SAMSUNG_55in_UA55J5500AK/SAMSUNG_55in_UA55J5500AK_L_1.jpg",
+      "stok": 7
+    },
+    {
+      "id": 3,
+      "nama": "TCL 55 Inch, 4K HDR, Smart TV Crystal Clarity,55P617",
+      "harga": 9499000,
+      "gambar": "https://media.btech.com/media/catalog/product/cache/22b1bed05f04d71c4a848d770186c3c4/5/5/55tu8300.png",
+      "stok": 5
+    },
+    {
+      "id": 4,
+      "nama": "LG 55UH617T 55 Inch LED 4K TV",
+      "harga": 12799000,
+      "gambar": "https://static.toiimg.com/photo/54146418/LG-55UH617T-55-inch-LED-4K-TV.jpg",
+      "stok": 3
+    },
+    {
+      "id": 5,
+      "nama": "Xiaomi Mi LED TV 4A V52R 32",
+      "harga": 8000000,
+      "gambar": "https://www.powerplanetonline.com/cdnassets/xiaomi_mi_tv_4a_v52r_32_hd_smart_tv_android_os_led_01_l.jpg",
+      "stok": 5
+    },
+    {
+      "id": 6,
+      "nama": "Realme 55inc Ulta HD",
+      "harga": 30000000,
+      "gambar": "https://image01.realme.net/general/20200930/1601463930406.jpg",
+      "stok": 5
+    },
+    {
+      "id": 7,
+      "nama": "Nokia Motorola launched its 32-inch",
+      "harga": 12000000,
+      "gambar": "https://static.toiimg.com/img/74021952/Master.jpg",
+      "stok": 5
+    },
+    {
+      "id": 8,
+      "nama": "Pantalla LED EVL 43 Full HD Smart TV ",
+      "harga": 7300000,
+      "gambar": "https://cdn1.coppel.com/images/catalog/pm/2989433-1.jpg",
+      "stok": 5
+    },
+    {
+      "id": 9,
+      "nama": "Panasonic 43 in. TH-43F302G",
+      "harga": 3000000,
+      "gambar": "https://d2pa5gi5n2e1an.cloudfront.net/global/images/product/tvs/Panasonic_TH_43F302G/Panasonic_TH_43F302G_L_1.jpg",
+      "stok": 5
+    },
+    {
+      "id": 10,
+      "nama": "SONY KD-55X7500F UHD 4K Smart Android ",
+      "harga": 13000000,
+      "gambar": "https://i.imgur.com/c8rZeG3.jpg",
+      "stok": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
